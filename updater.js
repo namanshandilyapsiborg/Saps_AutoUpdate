@@ -1,7 +1,7 @@
 const AutoGitUpdate = require('auto-git-update');
 
 const config = {
-    repository: 'https://github.com/chegele/BackupPurger',
+    repository: 'https://github.com/namanshandilyapsiborg/Saps_AutoUpdate.git',
     fromReleases: true,
     tempLocation: 'D:/PsiBorg/',
     token : "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",
