@@ -1,0 +1,24 @@
+{
+  "name": "saps_autoupdate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanshandilyapsiborg/Saps_AutoUpdate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namanshandilyapsiborg/Saps_AutoUpdate/issues"
+  },
+  "homepage": "https://github.com/namanshandilyapsiborg/Saps_AutoUpdate#readme",
+  "dependencies": {
+    "auto-git-update": "^1.1.1",
+    "express": "^4.18.1"
+  }
+}
